@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **java , Html ,CSS, Java-script , DSA**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Subhashdrx2002/HTML/blob/968633d11c8c245c82fb7c442a15e9e6956aa496/Resume%20Projet1](https://github.com/Subhashdrx2002/HTML/blob/968633d11c8c245c82fb7c442a15e9e6956aa496/Resume%20Projet1)
+- 👨‍💻 All of my projects are available at [https://subhashdrx2002.github.io/resume-project.github.io/](https://subhashdrx2002.github.io/resume-project.github.io/)
 
 - 💬 Ask me about **Html , CSS , Python**
 
 - 📫 How to reach me **Subhash7042848121@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/subhash-782513257/](https://www.linkedin.com/in/subhash-782513257/)
+- 📄 Know about my experiences [https://subhashdrx2002.github.io/resume-project.github.io/](https://subhashdrx2002.github.io/resume-project.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
