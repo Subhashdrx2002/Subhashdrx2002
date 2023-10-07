@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **java , Html ,CSS, Java-script , DSA**
 
-- 👨‍💻 All of my projects are available at [https://super-duper-trout-g9w7vv5vvrxfwxx-5500.app.github.dev/Project1.html](https://super-duper-trout-g9w7vv5vvrxfwxx-5500.app.github.dev/Project1.html)
+- 👨‍💻 All of my projects are available at [https://github.com/Subhashdrx2002/HTML/blob/968633d11c8c245c82fb7c442a15e9e6956aa496/Resume%20Projet1](https://github.com/Subhashdrx2002/HTML/blob/968633d11c8c245c82fb7c442a15e9e6956aa496/Resume%20Projet1)
 
 - 💬 Ask me about **Html , CSS , Python**
 
 - 📫 How to reach me **Subhash7042848121@gmail.com**
 
-- 📄 Know about my experiences [https://super-duper-trout-g9w7vv5vvrxfwxx-5500.app.github.dev/Project1.html](https://super-duper-trout-g9w7vv5vvrxfwxx-5500.app.github.dev/Project1.html)
+- 📄 Know about my experiences [https://github.com/Subhashdrx2002/HTML/blob/968633d11c8c245c82fb7c442a15e9e6956aa496/Resume%20Projet1](https://github.com/Subhashdrx2002/HTML/blob/968633d11c8c245c82fb7c442a15e9e6956aa496/Resume%20Projet1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
