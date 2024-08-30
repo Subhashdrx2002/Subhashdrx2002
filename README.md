@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **java , Html ,CSS, Java-script , DSA**
 
-- 👨‍💻 All of my projects are available at [https://subhashdrx2002.github.io/portfolio/](https://subhashdrx2002.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://subhashdrx2002.github.io/portfolio/)
 
 - 💬 Ask me about **Html , CSS , Python**
 
