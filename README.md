@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **java , Html ,CSS, Java-script , DSA**
 
-- 👨‍💻 All of my projects are available at [https://subhashdrx2002.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://subhashdrx2002.github.io/Myntra-clone/#)
 
 - 💬 Ask me about **Html , CSS , Python**
 
 - 📫 How to reach me **Subhash7042848121@gmail.com**
 
-- 📄 Know about my experiences https://subhashdrx2002.github.io/portfolio/](https://subhashdrx2002.github.io/portfolio/)
+- 📄 Know about my experiences https://subhashdrx2002.github.io/Myntra-clone/#]
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/subhash-782513257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhash-782513257" height="30" width="40" /></a>
