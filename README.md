@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subhash</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhashdrx2002&label=Profile%20views&color=0e75b6&style=flat" alt="subhashdrx2002" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **java , Html ,CSS, Java-script , DSA**
 
-- 👨‍💻 All of my projects are available at [https://subhashdrx2002.github.io/Myntra-clone/#)
+- 👨‍💻 All of my projects are available at [https://subhashdrx2002.github.io/Myntra-clone/#)(https://subhashkumar-portfolio.netlify.app/)]
 
 - 💬 Ask me about **Html , CSS , Python**
 
