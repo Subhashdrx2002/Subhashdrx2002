@@ -9,9 +9,10 @@
 
 - 🌱 I’m currently learning **java , Html ,CSS, Java-script , DSA**
 
-- 👨‍💻 All of my projects are available at [https://subhashkumar-portfolio.netlify.app/)
-- 
--                                        
+- 👨‍💻 All of my projects are available at [https://subhashdrx2002.github.io/Myntra-clone/)
+- Portfolio website built using HTML5, CSS3, JavaScript, and jQuery.
+
+<a href="https://subhashkumar-portfolio.netlify.app/" target="_blank">**Visit Now** 🚀</a>                                   
 
 - 💬 Ask me about **Html , CSS , Python**
 
