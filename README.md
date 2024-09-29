@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **java , Html ,CSS, Java-script , DSA**
 
 - 👨‍💻 All of my projects are available at [https://subhashdrx2002.github.io/Myntra-clone/#)
--                                         (https://subhashkumar-portfolio.netlify.app/)
+-                                         [https://subhashkumar-portfolio.netlify.app/)
 
 - 💬 Ask me about **Html , CSS , Python**
 
