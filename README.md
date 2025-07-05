@@ -12,7 +12,7 @@
 - 👨‍💻 All of my projects are available at [https://subhashdrx2002.github.io/Myntra-clone/)
 - Portfolio website built using HTML5, CSS3, JavaScript, and jQuery.
 
-<a href="https://subhashkumar-portfolio.netlify.app/" target="_blank">**Visit Now** 🚀</a>                                   
+<a href="https://portfolio-data-analyst.netlify.app/" target="_blank">**Visit Now** 🚀</a>                                   
 
 - 💬 Ask me about **Html , CSS , Python**
 
