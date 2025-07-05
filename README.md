@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subhash</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate Data analyst </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhashdrx2002&label=Profile%20views&color=0e75b6&style=flat" alt="subhashdrx2002" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **java , Html ,CSS, Java-script , DSA**
+- 🌱 I’m currently learning **java , Html ,CSS, Java-script , DSA , SQL, EXCEL, Python , Power BI**
 
 - 👨‍💻 All of my projects are available at [https://subhashdrx2002.github.io/Myntra-clone/)
 - Portfolio website built using HTML5, CSS3, JavaScript, and jQuery.
